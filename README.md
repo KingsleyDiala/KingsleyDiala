@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingsleyDiala
-- 👀 I’m interested in writing softwares and solving problems by codding
+- 👀 I’m interested in writing softwares and for web enviroments
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on some web projects
 - 📫 How to reach me email: dialakingsley2@gmail.com
